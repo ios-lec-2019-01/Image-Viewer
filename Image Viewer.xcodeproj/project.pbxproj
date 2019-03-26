@@ -12,6 +12,8 @@
 		05C92BBB2249CBF0007265CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C92BB92249CBF0007265CB /* Main.storyboard */; };
 		05C92BBD2249CBF1007265CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05C92BBC2249CBF1007265CB /* Assets.xcassets */; };
 		05C92BC02249CBF1007265CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C92BBE2249CBF1007265CB /* LaunchScreen.storyboard */; };
+		05C92BC82249D138007265CB /* leftButton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05C92BC72249D138007265CB /* leftButton.jpg */; };
+		05C92BCA2249D141007265CB /* rightButton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05C92BC92249D141007265CB /* rightButton.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		05C92BBC2249CBF1007265CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05C92BBF2249CBF1007265CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05C92BC12249CBF1007265CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05C92BC72249D138007265CB /* leftButton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = leftButton.jpg; sourceTree = "<group>"; };
+		05C92BC92249D141007265CB /* rightButton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rightButton.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		05C92BB42249CBF0007265CB /* Image Viewer */ = {
 			isa = PBXGroup;
 			children = (
+				05C92BC92249D141007265CB /* rightButton.jpg */,
+				05C92BC72249D138007265CB /* leftButton.jpg */,
 				05C92BB52249CBF0007265CB /* AppDelegate.swift */,
 				05C92BB72249CBF0007265CB /* ViewController.swift */,
 				05C92BB92249CBF0007265CB /* Main.storyboard */,
@@ -122,6 +128,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05C92BC82249D138007265CB /* leftButton.jpg in Resources */,
+				05C92BCA2249D141007265CB /* rightButton.jpg in Resources */,
 				05C92BC02249CBF1007265CB /* LaunchScreen.storyboard in Resources */,
 				05C92BBD2249CBF1007265CB /* Assets.xcassets in Resources */,
 				05C92BBB2249CBF0007265CB /* Main.storyboard in Resources */,
